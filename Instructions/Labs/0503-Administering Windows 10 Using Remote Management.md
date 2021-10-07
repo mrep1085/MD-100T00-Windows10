@@ -31,7 +31,7 @@ Invoke-Command -ComputerName SEA-SVR2 -ScriptBlock {Get-ChildItem "C:\Program Fi
 5. To view the the System event log on SEA-SVR2, in the Windows PowerShell window, type the following command, and then press **Enter**:
 
 ```
-Invoke-Command –ComputerName SEA-SVR2 –ScriptBlock {Get-EventLog –log system
+Invoke-Command –ComputerName SEA-SVR2 –ScriptBlock {Get-EventLog –log system}
 ```
 
 6. To determine if the WinRM service is running on SEA-SVR2, in the Windows PowerShell window, type the following command, and then press **Enter**:
