@@ -74,7 +74,7 @@ You've been asked to configure and test Microsoft Defender Antivirus on SEA-CL1.
 
    _**Note**: The sample.txt file contains a text string to test malware detection._
 
-8. In the sample.txt file, **delete both instances of \<remove\>,** including the brackets and any extra lines or blank spaces.
+8. In the sample.txt file, **delete both instances of remove,** including the brackets and any extra lines or blank spaces.
 
 9. Select **Save** and close Notepad.
 
